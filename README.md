@@ -13,7 +13,7 @@ Electrical and Computer Engineering Undergraduate Student at Carnegie Mellon Uni
 #### [Barcode/QR Scanner App](https://github.com/fetf/Barcode-QR-Scanner)
 > An app to scan and save many types of barcodes and QR codes
 
-And more on my devpost linked to my profile!
+And more on my [devpost](https://devpost.com/richardsb)!
 <!--
 **RichardSba/RichardSba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
