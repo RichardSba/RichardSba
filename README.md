@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Electrical and Computer Engineering Undergraduate Student at Carnegie Mellon University
+
+Hackathon Projects:
+
+#### [3D AR Grapher](https://github.com/fetf/3D-AR-Grapher)
+
+#### [AssistSpeak](https://github.com/fetf/AssistSpeak)
+
+#### [Barcode/QR Scanner App](https://github.com/fetf/Barcode-QR-Scanner)
+
 <!--
 **RichardSba/RichardSba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
