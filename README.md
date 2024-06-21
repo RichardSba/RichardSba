@@ -2,7 +2,11 @@
 
 Electrical and Computer Engineering Undergraduate Student at Carnegie Mellon University
 
-### Hackathon Projects:
+### Projects:
+
+#### [Music Quiz Bot for Discord](https://github.com/fetf/music-quiz)
+> A Discord bot that plays songs from a playlist for players to guess.
+> Has a scoring system and also supports basic music player functions.
 
 #### [3D AR Grapher](https://github.com/fetf/3D-AR-Grapher)
 > A website that lets you view 3D graphs in augmented reality
