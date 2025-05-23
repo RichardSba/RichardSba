@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Electrical and Computer Engineering Undergraduate Student at Carnegie Mellon University
+Electrical and Computer Engineering Student at Carnegie Mellon University
 
 ### Projects:
 
